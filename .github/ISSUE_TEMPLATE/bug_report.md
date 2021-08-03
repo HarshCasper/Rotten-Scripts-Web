@@ -1,3 +1,12 @@
+---
+name: Bug Report
+about: Create a report for solvng a bug
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 # Detailed description
 
 ## Where is the bug?
